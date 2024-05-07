@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(245, 213, 172);
+    text-align: center;
+}
+
+.subheader {
+    color: darkred;
+}
+
+.header {
+    text-align: center;
+    text-decoration: double;
+}
+
+.ingredientlist {
+    list-style-type: none;
+}
+
+.stepslist {
+    list-style-type: none;
+}
